@@ -1,4 +1,4 @@
-✅ Opt-In Page
+✅ Opt-In Page - Perfect for Email Sign ups
 A clean, responsive opt-in landing page built with HTML, CSS, and JavaScript. Perfect for capturing user emails and growing your subscriber list.
 
 🎯 Features
