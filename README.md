@@ -21,3 +21,4 @@ JavaScript (vanilla)
 
 🚀 How to Use
 Clone the repo:
+https://eyy4k.github.io/Opt-In-Page/
